@@ -29,7 +29,8 @@ let obj1 = {
     }
 }
 
-// let obj2 = obj1
+let obj2 = obj1
+obj1 = null
 // obj2.name = '李四'
 
 // 浅拷贝，只有第一层

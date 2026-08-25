@@ -1,6 +1,7 @@
 //  2.1 引入weakMap
 function myDeepClone (obj, map = new WeakMap()) {
-    // 1.1递归出口
+    // Function之类如何处理
+    // 1.1递归出口 
     if (obj === null || typeof obj !== 'object') {
         return obj
     }
@@ -43,4 +44,3 @@ const obj2 = {
   
   const res2 = myDeepClone(obj2);
   res2.self.age = 99; 
-  
