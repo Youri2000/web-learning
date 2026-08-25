@@ -41,6 +41,6 @@ a = b = 10
 
 
 # 作业
-1. symbol 与 Boolean string 的转换
+1. ✅symbol 与 Boolean string 的转换
 2. ✅ Symbol.for() & Symbol.keyFor() 
 3. ✅看JS 的 所有的操作符，demo for everyone：https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_precedence
