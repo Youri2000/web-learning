@@ -37,8 +37,8 @@ console.log(typeof true)
 
 console.log(b.valueOf()) //取值
 
-a = b = 10
-
+a = b = 10(return)
+x = 5(return)
 
 # 作业
 1. ✅symbol 与 Boolean string 的转换

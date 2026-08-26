@@ -1,5 +1,3 @@
-![整体结构](/Users/youri/Downloads/Front-End/0623FE-CampusRecruitment/web-learning/lesson-1/整体结构.png)
-
 浏览器运行：.html .css .js
 js: 动态 ts：静态编译阶段
 Vue和React，浏览器真实DOM/CSSOM树形结构，来自于html，css，利于解析器的执行
@@ -27,9 +25,4 @@ cloudflare
 错误监控：Sentry，收集用户
 性能监控：Lighthouse
 HTTP/2多路复用
-Gzip / Brotli：网络层的压缩，无损传输，节约带宽
-
-GitMessage
-
-![git-message](/Users/youri/Downloads/Front-End/0623FE-CampusRecruitment/web-learning/lesson-1/git-message.png)
-
+Gzip / Brotli：网络层的压缩，无损传输，节约带宽，压缩文件

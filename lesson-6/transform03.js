@@ -1,0 +1,10 @@
+console.log([] + []);
+console.log([] + {});
+console.log({} + []);
+console.log(true + false);
+console.log("1" + 2 + 3);
+console.log(1 + 2 + "3");
+console.log(null == undefined);
+console.log(null == 0);
+console.log([] == 0);
+console.log(![] == []);
